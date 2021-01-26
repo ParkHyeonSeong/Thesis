@@ -2,7 +2,7 @@
 제 1저자 논문 수록 / A collection of the first authors
 
 ### 2016
-- 자율주행 자동차 통신 기술 보안을 위한 Recovery Partitin ECU 보안 솔루션 제안
+- 자율주행 자동차 통신 기술 보안을 위한 Recovery Partition ECU 보안 솔루션 제안
 
 　　(한국정보보호학회 동계학술대회 발표 세션 채택)
 
